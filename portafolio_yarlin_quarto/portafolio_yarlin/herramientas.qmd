@@ -1,0 +1,45 @@
+---
+title: "Herramientas desarrolladas"
+---
+
+Además de publicaciones, este portafolio documenta herramientas analíticas que apoyan procesos de investigación, auditoría, visualización y generación de reportes.
+
+::: {.card-grid}
+::: {.port-card}
+<span class="tag">R Shiny · Calidad de datos</span>
+### [Sistema de Auditoría de Calidad de Datos](proyectos/auditoria-calidad-datos.qmd)
+
+Aplicación para revisar estructura, consistencia, valores faltantes, formatos y posibles problemas de calidad en bases de datos.
+:::
+
+::: {.port-card}
+<span class="tag">R · Visualización</span>
+### [Generador institucional de gráficos PEN](proyectos/generador-graficos-pen.qmd)
+
+Herramienta para estandarizar gráficos, facilitar exportaciones y generar código reproducible para productos institucionales.
+:::
+
+::: {.port-card}
+<span class="tag">Shiny · Interactividad</span>
+### [Aplicaciones Shiny](proyectos/apps-shiny.qmd)
+
+Desarrollo de interfaces interactivas para explorar datos, seleccionar variables, generar visualizaciones y descargar productos.
+:::
+
+::: {.port-card}
+<span class="tag">Quarto · R Markdown</span>
+### Reportes automatizados
+
+Flujos reproducibles para transformar análisis en documentos técnicos, presentaciones, reportes PDF/HTML y material de divulgación.
+:::
+:::
+
+## Tecnologías principales
+
+| Área | Herramientas |
+|---|---|
+| Análisis estadístico | R, tidyverse, survey, modelos estadísticos |
+| Aplicaciones | Shiny, shinydashboard, bslib |
+| Reportes | Quarto, R Markdown, officer, flextable |
+| Visualización | ggplot2, Power BI, Excel, Tableau |
+| Gestión de datos | Excel, SQL, bases de datos, validaciones |

@@ -1,0 +1,153 @@
+/*-- scss:defaults --*/
+$primary: #0b1f3a;
+$secondary: #2f80ed;
+$body-bg: #f7f9fc;
+$body-color: #1f2937;
+$link-color: #1d4ed8;
+$font-family-sans-serif: "Inter", "Aptos", "Segoe UI", Arial, sans-serif;
+$headings-font-weight: 750;
+
+/*-- scss:rules --*/
+.navbar-title {
+  font-weight: 800;
+  letter-spacing: .2px;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0b1f3a 0%, #123b68 55%, #2f80ed 100%);
+  color: white;
+  border-radius: 24px;
+  padding: 3.5rem 3rem;
+  margin: 1.5rem 0 2rem 0;
+  box-shadow: 0 20px 45px rgba(11, 31, 58, .20);
+}
+
+.hero h1 {
+  font-size: clamp(2.2rem, 5vw, 4.4rem);
+  line-height: .98;
+  margin-bottom: .8rem;
+}
+
+.hero p {
+  max-width: 880px;
+  font-size: 1.18rem;
+  opacity: .95;
+}
+
+.badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .55rem;
+  margin-top: 1.5rem;
+}
+
+.badge-soft {
+  background: rgba(255,255,255,.14);
+  border: 1px solid rgba(255,255,255,.24);
+  color: #fff;
+  padding: .45rem .75rem;
+  border-radius: 999px;
+  font-weight: 650;
+  font-size: .92rem;
+}
+
+.btn-main {
+  display: inline-block;
+  background: #ffffff;
+  color: #0b1f3a !important;
+  font-weight: 750;
+  border-radius: 999px;
+  padding: .8rem 1.1rem;
+  margin-right: .6rem;
+  margin-top: 1rem;
+  text-decoration: none;
+}
+
+.btn-outline-light {
+  display: inline-block;
+  border: 1px solid rgba(255,255,255,.55);
+  color: #ffffff !important;
+  font-weight: 750;
+  border-radius: 999px;
+  padding: .8rem 1.1rem;
+  margin-top: 1rem;
+  text-decoration: none;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.15rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.port-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 1.35rem;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, .06);
+  height: 100%;
+}
+
+.port-card h3 {
+  margin-top: 0;
+  color: #0b1f3a;
+}
+
+.port-card .tag {
+  display: inline-block;
+  background: #edf4ff;
+  color: #174ea6;
+  font-size: .80rem;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: .25rem .6rem;
+  margin-bottom: .75rem;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.metric {
+  background: #ffffff;
+  border-left: 5px solid #2f80ed;
+  border-radius: 16px;
+  padding: 1rem;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, .05);
+}
+
+.metric strong {
+  display: block;
+  font-size: 1.5rem;
+  color: #0b1f3a;
+}
+
+.project-cover {
+  width: 100%;
+  border-radius: 20px;
+  margin: 1rem 0 1.5rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, .08);
+}
+
+.table-clean table {
+  background: #ffffff;
+}
+
+.quarto-title-banner {
+  background: #0b1f3a;
+}
+
+.callout {
+  border-radius: 16px;
+}
+
+.footer-note {
+  font-size: .92rem;
+  color: #6b7280;
+}

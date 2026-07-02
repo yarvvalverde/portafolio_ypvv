@@ -1,0 +1,50 @@
+---
+title: "Generador institucional de gráficos PEN"
+description: "Herramienta para crear visualizaciones institucionales reproducibles, exportables y consistentes."
+date: 2026-07-02
+categories: [R, ggplot2, visualización, PEN, gráficos]
+image: "../assets/img/cover-graficos.svg"
+---
+
+![Generador institucional de gráficos](../assets/img/cover-graficos.svg){.project-cover}
+
+## Resumen
+
+Herramienta orientada a facilitar la creación de gráficos institucionales con criterios visuales consistentes. Permite seleccionar datos, variables, tipos de gráfico y parámetros de estilo, además de exportar resultados y generar código reproducible en R.
+
+## Problema que resuelve
+
+La generación manual de gráficos puede producir diferencias de estilo, errores de formato y procesos poco reproducibles. Esta herramienta busca estandarizar la visualización de información y facilitar el trabajo de equipos de investigación.
+
+## Funcionalidades previstas
+
+- Cargar archivos Excel y seleccionar hojas.
+- Vista previa de bases de datos.
+- Selección del tipo de gráfico.
+- Parámetros dinámicos según el gráfico elegido.
+- Vista previa interactiva.
+- Exportación en PDF y SVG.
+- Copia automática de código R.
+- Importación y exportación de configuraciones.
+
+## Tecnologías
+
+| Área | Herramientas |
+|---|---|
+| Visualización | ggplot2, scales, patchwork |
+| Interfaz | Shiny, bslib |
+| Lectura de datos | readxl, haven, readr |
+| Exportación | svglite, ragg, ggplot2 |
+| Reproducibilidad | funciones R, Quarto |
+
+## Mi contribución
+
+- Diseño funcional de la aplicación.
+- Programación de funciones para gráficos institucionales.
+- Validaciones para prevenir errores de selección o datos incompletos.
+- Generación de código reproducible para uso posterior.
+- Documentación de uso con lenguaje sencillo.
+
+## Resultado esperado
+
+Una herramienta que reduzca tiempos de producción, mejore la consistencia gráfica y facilite la trazabilidad de visualizaciones institucionales.

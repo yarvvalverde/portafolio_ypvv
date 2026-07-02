@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Yarlín Vargas"
+  description: "Portafolio profesional de investigación aplicada, estadística y ciencia de datos."
+  site-url: "https://TU-USUARIO.github.io/portafolio-yarlin"
+  navbar:
+    background: "#0b1f3a"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: sobre-mi.qmd
+        text: Sobre mí
+      - href: proyectos.qmd
+        text: Proyectos
+      - href: publicaciones.qmd
+        text: Publicaciones
+      - href: herramientas.qmd
+        text: Herramientas
+      - href: cv.qmd
+        text: CV
+      - href: contacto.qmd
+        text: Contacto
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/"
+        aria-label: LinkedIn
+      - icon: github
+        href: "https://github.com/"
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Yarlín Paola Vargas Valverde"
+    right: "Construido con Quarto · GitHub Pages"
+  repo-url: "https://github.com/TU-USUARIO/portafolio-yarlin"
+  repo-actions: [source]
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+    fontsize: 1.02em
+
+execute:
+  freeze: auto

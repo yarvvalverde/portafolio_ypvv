@@ -1,0 +1,80 @@
+---
+title: "Yarlín Paola Vargas Valverde"
+subtitle: "Investigadora Bachiller · Estadística · Ciencia de Datos"
+page-layout: full
+---
+
+::: {.hero}
+# Yarlín Paola Vargas Valverde
+
+Investigadora Bachiller en el Programa Estado de la Nación (CONARE), con formación en Estadística y experiencia en análisis de datos, visualización, automatización de reportes, metodología de encuestas y desarrollo de herramientas en R.
+
+[Ver proyectos](proyectos.qmd){.btn-main} [Descargar CV](docs/CV_Yarlin_Vargas_Actualizado.docx){.btn-outline-light}
+
+::: {.badge-row}
+<span class="badge-soft">R</span>
+<span class="badge-soft">Shiny</span>
+<span class="badge-soft">Quarto</span>
+<span class="badge-soft">Power BI</span>
+<span class="badge-soft">Encuestas</span>
+<span class="badge-soft">Visualización</span>
+<span class="badge-soft">Calidad de datos</span>
+:::
+:::
+
+## Portafolio de investigación y datos
+
+Este sitio reúne productos institucionales, herramientas analíticas y proyectos desarrollados en el marco de mi trayectoria profesional en estadística, investigación aplicada y ciencia de datos.
+
+::: {.metric-grid}
+::: {.metric}
+<strong>3</strong>
+Publicaciones iniciales del OLaP documentadas como productos institucionales.
+:::
+
+::: {.metric}
+<strong>6</strong>
+Fichas individuales de proyectos y herramientas incluidas en esta primera versión.
+:::
+
+::: {.metric}
+<strong>R + Quarto</strong>
+Sitio preparado para publicarse automáticamente con GitHub Pages.
+:::
+:::
+
+## Proyectos destacados
+
+::: {.card-grid}
+::: {.port-card}
+<span class="tag">OLaP · Educación superior</span>
+### [Caracterización estudiantil 2025](proyectos/olap-caracterizacion-2025.qmd)
+
+Producto institucional sobre la población estudiantil universitaria estatal, con énfasis en procesamiento de datos, indicadores y visualización.
+:::
+
+::: {.port-card}
+<span class="tag">OLaP · Movilidad social</span>
+### [Brecha universitaria y quintiles](proyectos/olap-brecha-universitaria.qmd)
+
+Ficha de proyecto orientada a documentar análisis sobre brechas, quintiles y trayectorias de acceso a la educación superior estatal.
+:::
+
+::: {.port-card}
+<span class="tag">OLaP · Mercado laboral</span>
+### [Situación laboral de graduados](proyectos/olap-situacion-laboral-graduados.qmd)
+
+Producto vinculado al seguimiento de personas graduadas 2020-2022 de universidades costarricenses.
+:::
+
+::: {.port-card}
+<span class="tag">Herramienta · R Shiny</span>
+### [Auditoría de calidad de datos](proyectos/auditoria-calidad-datos.qmd)
+
+Aplicación para revisar bases de datos, identificar problemas de calidad y generar reportes reproducibles.
+:::
+:::
+
+## Enfoque profesional
+
+Mi trabajo se ubica en la intersección entre investigación, estadística aplicada y herramientas computacionales. El objetivo es transformar bases de datos complejas en evidencia clara, confiable y útil para informes, tableros, publicaciones y toma de decisiones.

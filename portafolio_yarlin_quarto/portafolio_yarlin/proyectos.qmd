@@ -1,0 +1,14 @@
+---
+title: "Proyectos"
+listing:
+  contents: proyectos/*.qmd
+  sort: "date desc"
+  type: grid
+  fields: [image, title, description, categories]
+  image-height: 180px
+  page-size: 12
+---
+
+Esta sección reúne fichas individuales de proyectos, publicaciones y herramientas desarrolladas o documentadas como parte de mi trayectoria profesional.
+
+Cada ficha contiene una descripción breve, el problema que atiende, mi contribución, metodologías utilizadas y evidencias disponibles.

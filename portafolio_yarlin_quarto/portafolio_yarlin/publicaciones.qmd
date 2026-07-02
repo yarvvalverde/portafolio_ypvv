@@ -1,0 +1,52 @@
+---
+title: "Publicaciones y productos institucionales"
+---
+
+Esta sección registra productos institucionales en los que se documenta mi trayectoria profesional. La recomendación es mantener aquí únicamente publicaciones, documentos oficiales, enlaces públicos o productos que puedan compartirse sin exponer información interna.
+
+::: {.callout-important}
+## Nota de uso
+Las fichas no sustituyen la publicación oficial. Funcionan como una descripción profesional de mi participación, habilidades aplicadas y aprendizaje técnico asociado a cada producto.
+:::
+
+## OLaP / CONARE
+
+::: {.card-grid}
+::: {.port-card}
+<span class="tag">2026 · OLaP</span>
+### La Brecha Universitaria: Un viaje a través de los quintiles en las universidades estatales de Costa Rica
+
+Producto público del Observatorio Laboral de Profesionales relacionado con brechas universitarias y quintiles.
+
+[Ver publicación oficial](https://olap.conare.ac.cr/documentosolap/brecha-universitaria-viaje-quintiles-universidades-estatales-costa-rica/)
+:::
+
+::: {.port-card}
+<span class="tag">2026 · OLaP</span>
+### Resultados: Caracterización de la población estudiantil universitaria estatal, 2025
+
+Producto público de caracterización de estudiantes de universidades estatales.
+
+[Ver publicación oficial](https://olap.conare.ac.cr/documentosolap/resultados-de-caracterizacion-de-la-poblacion-estudiantil-universitaria-estatal-2025/)
+:::
+
+::: {.port-card}
+<span class="tag">2026 · OLaP</span>
+### Situación laboral de las personas graduadas 2020-2022 de las universidades costarricenses
+
+Producto público sobre seguimiento laboral de personas graduadas.
+
+[Ver publicación oficial](https://olap.conare.ac.cr/documentosolap/situacion-laboral-personas-graduadas-2020-2022-universidades-costarricenses/)
+:::
+:::
+
+## Cómo agregar nuevas publicaciones
+
+Para cada publicación nueva se recomienda registrar:
+
+1. Título oficial.
+2. Institución o programa.
+3. Año.
+4. Rol o contribución personal.
+5. Metodologías o herramientas utilizadas.
+6. Enlace público.

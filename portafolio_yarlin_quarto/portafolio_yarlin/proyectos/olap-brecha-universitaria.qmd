@@ -1,0 +1,53 @@
+---
+title: "Brecha universitaria y viaje a través de quintiles"
+description: "Ficha profesional de producto público del OLaP sobre brecha universitaria, movilidad y quintiles en universidades estatales."
+date: 2026-03-06
+categories: [OLaP, CONARE, educación superior, quintiles, investigación aplicada]
+image: "../assets/img/cover-brecha.svg"
+---
+
+![Brecha universitaria](../assets/img/cover-brecha.svg){.project-cover}
+
+## Resumen
+
+Producto público del Observatorio Laboral de Profesionales relacionado con la brecha universitaria y el análisis de quintiles en las universidades estatales de Costa Rica. Esta ficha documenta el producto como parte del portafolio profesional, destacando el valor metodológico, analítico y comunicativo del trabajo.
+
+[Ver publicación oficial en OLaP](https://olap.conare.ac.cr/documentosolap/brecha-universitaria-viaje-quintiles-universidades-estatales-costa-rica/)
+
+## Ficha técnica
+
+| Campo | Descripción |
+|---|---|
+| Institución | CONARE / Observatorio Laboral de Profesionales |
+| Tema | Brecha universitaria, quintiles y educación superior estatal |
+| Tipo de producto | Publicación / producto institucional |
+| Rol en portafolio | Documentación de experiencia profesional en análisis de datos e investigación aplicada |
+| Estado | Publicado |
+
+## Problema que aborda
+
+El producto contribuye a comprender diferencias en el acceso, composición o trayectoria universitaria según condiciones socioeconómicas, utilizando la perspectiva de quintiles como eje de análisis.
+
+## Mi contribución documentable
+
+::: {.callout-note}
+Ajustar esta sección con el rol exacto desempeñado en el producto antes de publicar el sitio.
+:::
+
+- Procesamiento y revisión de bases de datos.
+- Construcción o validación de indicadores.
+- Apoyo en análisis estadístico descriptivo.
+- Elaboración o revisión de visualizaciones.
+- Sistematización de resultados para comunicación pública.
+
+## Herramientas y competencias aplicadas
+
+- Análisis estadístico descriptivo.
+- Procesamiento de bases de datos.
+- Visualización de información.
+- Control de calidad de datos.
+- Comunicación técnica de resultados.
+
+## Evidencia pública
+
+La evidencia disponible corresponde al enlace oficial del producto en el sitio del OLaP.

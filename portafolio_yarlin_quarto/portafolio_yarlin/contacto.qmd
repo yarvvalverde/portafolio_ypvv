@@ -1,0 +1,30 @@
+---
+title: "Contacto"
+---
+
+Gracias por visitar mi portafolio. Este sitio está pensado para documentar mi trayectoria profesional en investigación aplicada, estadística y ciencia de datos.
+
+::: {.card-grid}
+::: {.port-card}
+### Correo
+[yarlivargas2309@gmail.com](mailto:yarlivargas2309@gmail.com)
+:::
+
+::: {.port-card}
+### LinkedIn
+[Agregar enlace de LinkedIn](https://www.linkedin.com/)
+:::
+
+::: {.port-card}
+### GitHub
+[Agregar enlace de GitHub](https://github.com/)
+:::
+:::
+
+## Nota
+
+Antes de publicar el sitio, actualizar los enlaces reales de LinkedIn y GitHub en:
+
+- `_quarto.yml`
+- `contacto.qmd`
+- `cv.qmd` si desea incluir más enlaces.

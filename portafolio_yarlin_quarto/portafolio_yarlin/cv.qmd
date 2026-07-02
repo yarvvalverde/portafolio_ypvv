@@ -1,0 +1,63 @@
+---
+title: "Currículum Vitae"
+---
+
+[Descargar CV actualizado en Word](docs/CV_Yarlin_Vargas_Actualizado.docx){.btn-main}
+
+## Perfil profesional
+
+Investigadora Bachiller en el Programa Estado de la Nación (CONARE), con formación en Estadística y experiencia en investigación aplicada, metodología de encuestas, análisis exploratorio de datos, visualización de información y desarrollo de herramientas analíticas en R, Shiny, Quarto, Power BI y Excel.
+
+## Experiencia profesional
+
+### Investigadora Bachiller · Programa Estado de la Nación, CONARE
+**Mayo 2026 - Actualidad**
+
+- Diseño y ejecución de procesos de investigación aplicada.
+- Procesamiento, depuración, validación y análisis de bases de datos complejas.
+- Elaboración de informes técnicos, indicadores, visualizaciones y productos de divulgación.
+- Desarrollo de herramientas analíticas y flujos reproducibles en R, Shiny y Quarto.
+- Apoyo a equipos interdisciplinarios mediante análisis estadístico y comunicación de resultados.
+
+### Técnico Asistente de Investigación · DPI, CONARE
+**Septiembre 2025 - Abril 2026**
+
+- Elaboración de dashboards interactivos para seguimiento de indicadores institucionales.
+- Limpieza, depuración y normalización de bases de datos.
+- Sistematización y documentación de procesos internos de gestión de información.
+- Apoyo en informes técnicos y herramientas analíticas.
+
+### Pasantía · Consejo Nacional de Rectores, CONARE
+**Marzo 2025 - Septiembre 2025**
+
+- Desarrollo de visualizaciones interactivas y dashboards mediante Shiny y Power BI.
+- Análisis, limpieza y estructuración de bases de datos de encuestas, censos y registros administrativos.
+- Comunicación de resultados para audiencias técnicas y no técnicas.
+
+### Pasantía · Ernst & Young Costa Rica
+**Octubre 2024 - Febrero 2025**
+
+- Depuración y normalización de bases de datos de múltiples fuentes.
+- Diseño e implementación de una base de datos desde cero.
+- Elaboración de reportes, presentaciones y KPIs.
+
+### Asistente · Unidad de Servicios Estadísticos, UCR
+**Agosto 2024 - Diciembre 2024**
+
+- Verificación y depuración de datos para proyectos institucionales.
+- Diseño de entrada de datos para la IV Encuesta Nacional de Juventudes 2024.
+- Supervisión y diseño de cuestionarios en encuestas nacionales.
+
+## Educación
+
+**Bachillerato en Estadística**  
+Universidad de Costa Rica · 2020-2025
+
+## Habilidades técnicas
+
+R, Shiny, Quarto, R Markdown, Power BI, Excel avanzado, Python, SQL, SPSS, SurveyToGo, LimeSurvey, Tableau, LaTeX y Microsoft Office.
+
+## Idiomas
+
+- Español: nativo.
+- Inglés: intermedio.
